@@ -18,7 +18,7 @@
 //
 // It's so strange. I thought it should have something to do with the stack.
 //
-// 2018-04-06 Sent to comp.lang.c
+// 2018-04-06 Will send this to comp.lang.c. I have no time to configure Gnus right now.
 
 #include <stdio.h>
 
